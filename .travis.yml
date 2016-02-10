@@ -1,0 +1,23 @@
+branches:
+  only:
+  - generator
+language: python
+sudo: false
+python:
+- 2.7
+cache:
+  directories:
+    - $HOME/.cache/pip
+    - $HOME/.cache/lektor/builds
+install:
+- pip install -r requirements.txt
+
+script:
+- "lektor build"
+- 'test "$TRAVIS_PULL_REQUEST" == false && test "$TRAVIS_BRANCH" == master && lektor deploy generator'
+
+notifications:
+  email:
+    on_success: always
+    on_failure: always
+

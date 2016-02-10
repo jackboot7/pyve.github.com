@@ -1,0 +1,33 @@
+_model: page-md
+---
+body:
+
+La lista de correo es el principal canal de comunicación de la comunidad.
+
+Y, tal vez lo más importante de ella, es la principal herramienta de ayuda con
+la que cuenta el público en general.
+
+En ella, la comunidad realiza las siguientes contribuciones:
+
+ * Brinda ayuda a quienes enfrentan problemas técnicos relacionados con Python.
+ * Anuncia y promociona eventos de iniciativa propia o relacionados con Python.
+ * Comparte conocimientos de interés común.
+ * Coordina esfuerzos de desarrollo.
+ * Dera sobre asuntos que determinan la toma de decisiones.
+
+Para que puedas participar en la lista, accede a
+[la página de la lista](https://groups.google.com/forum/#!forum/python-venezuela)
+y:
+
+ * Solicite unirse al grupo
+ * Lea el mensaje de bienvenida
+
+![Página de bienvenida de la lista del grupo Python Venezuela](/img/solicitud_lista.png)
+
+**Importante**: Lee las
+[reglas de etiqueta de las lista](https://github.com/pyve/documentos/blob/master/reglas-de-etiqueta-en-la-lista-de-correo.md)
+
+## Acerca de las ofertas de empleo
+
+Si quieres hacer ofertas de empleo, hazlo a través de
+[nuestra aplicación de empleos](http://pyve.github.io/empleos/).
